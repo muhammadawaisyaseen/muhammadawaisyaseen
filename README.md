@@ -1,5 +1,5 @@
 
-# Hi , i am Usman Afzal 👋
+# Hi , i am Muhammad Awais Yaseen 👋
 - ⚡️ Passionate about Coding & Technology
 - 🌱 I want learning everything 🤣
 - 👨🏻‍💻 App Developer
