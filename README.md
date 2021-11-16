@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**muhammadawaisyaseen/muhammadawaisyaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi , i am Usman Afzal 👋
+- ⚡️ Passionate about Coding & Technology
+- 🌱 I want learning everything 🤣
+- 👨🏻‍💻 App Developer
+- 🎬 YouTuber  
 
-Here are some ideas to get you started:
+ ### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Awais-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-awais-518534225/)](https://www.linkedin.com/in/muhammad-awais-518534225/)
+
+## MY GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadawaisyaseen&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadawaisyaseen&theme=radical"/>|
+|---|---|
+## CODING ACTIVITY
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadawaisyaseen&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
