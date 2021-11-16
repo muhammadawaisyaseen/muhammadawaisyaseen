@@ -3,7 +3,6 @@
 - ⚡️ Passionate about Coding & Technology
 - 🌱 I want learning everything 🤣
 - 👨🏻‍💻 App Developer
-- 🎬 YouTuber  
 
  ### Connect with me:
 
