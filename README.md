@@ -1,7 +1,7 @@
 
 # Hi , i am Muhammad Awais Yaseen 👋
 - ⚡️ Passionate about Coding & Technology
-- 🌱 I want learning everything 🤣
+- 🌱 I want learning everything
 - 👨🏻‍💻 App Developer
 
  ### Connect with me:
