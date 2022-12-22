@@ -1,4 +1,7 @@
-
+<div align="left"> 
+  <a href="https://app.daily.dev/muhammadawaisyaseen">
+    <img src="https://api.daily.dev/devcards/9708587467e94294855d3a04e1ddc05d.png?r=i2s" width="256" align="right" alt="Muhammad Awais's Dev Card"/>
+  </a>
 # Hi , i am Muhammad Awais Yaseen 👋
 - ⚡️ Passionate about Coding & Technology
 - 🌱 I want learning everything
