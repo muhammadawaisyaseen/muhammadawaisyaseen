@@ -26,9 +26,4 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadawaisyaseen&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
  
-<div>
-## CODING ACTIVITY
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammadawaisyaseen&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
-</div>
+
