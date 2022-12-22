@@ -4,7 +4,7 @@
   </a>
   
   [![wakatime](https://wakatime.com/badge/user/0f7df295-46fc-4c1e-b948-caea53cef38d.svg)](https://wakatime.com/@0f7df295-46fc-4c1e-b948-caea53cef38d)
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadawaisyaseen&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Total time coded since Dec 5 2022" /> </p>
+
   
 
   
