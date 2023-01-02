@@ -8,7 +8,7 @@
   
 
   
-# Hi , i am Muhammad Awais Yaseen 👋
+# Hi , I am Muhammad Awais Yaseen 👋
 - ⚡️ Passionate about Coding & Technology
 - 📫 Reach out me (Whatsapp): +92 308 4550780
 - 🌱 I want learning everything
